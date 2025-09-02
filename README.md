@@ -39,13 +39,13 @@ After successfully authenticating, create a new project:
 
 ```bash
 # Initialize project
-bun-nextjs-starter$ railway init
+railway init
 
 # Deploy your application
-bun-nextjs-starter$ railway up
+railway up
 
 # Generate public domain
-bun-nextjs-starter$ railway domain
+railway domain
 ```
 
 ## Method 2: Deploy via Dashboard
